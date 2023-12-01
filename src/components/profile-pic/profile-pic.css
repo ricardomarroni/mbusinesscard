@@ -1,0 +1,9 @@
+
+.profile-pic {
+    border-radius: 10px 10px 0px 0px;
+    width: 260px;
+    height: 320px;
+    background-image: url("../../media/me.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
